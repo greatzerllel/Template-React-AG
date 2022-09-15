@@ -1,4 +1,8 @@
-# Crear estructura del proyecto 
+## PSDATA = Este template viene con todo ya instalado hasta fontawesome, pero por lo general si llega a haber un error suele ser para instalar los proptypes, si quieres crear un proyecto desde ZERO puedes tomar a partir el siguiente paso.
+
+    $npm install prop-types
+
+# Crear estructura del proyecto desde ZERO
 
 - __tests__
 - public
@@ -283,6 +287,3 @@ Configurar bootstrap en el ***index.js***
     import 'bootstrap/dist/js/bootstrap.bundle'; // JS
 ```
 
-## PSDATA = Este template viene con todo ya instalado hasta fontawesome, pero por lo general si llega a haber un error suele ser para instalar los proptypes. 
-
-    $npm install prop-types

@@ -273,7 +273,7 @@ Configurar "scripts" en el ***package.json***
     }
 ```
 
-## Instalar "Bootstrap" (opcional)
+## Instalar "Bootstrap" (opcional) por ahora solo funciona la v5.1
 
     $ npm i --save bootstrap
 
@@ -282,3 +282,7 @@ Configurar bootstrap en el ***index.js***
     import 'bootstrap/dist/css/bootstrap.min.css'; // CSS
     import 'bootstrap/dist/js/bootstrap.bundle'; // JS
 ```
+
+## PSDATA = Este template viene con todo ya instalado hasta fontawesome, pero por lo general si llega a haber un error suele ser para instalar los proptypes. 
+
+    $npm install prop-types

@@ -1,7 +1,11 @@
-## PSDATA = Este template viene con todo ya instalado hasta fontawesome, pero por lo general si llega a haber un error suele ser para instalar los proptypes, si quieres crear un proyecto desde ZERO puedes tomar a partir el siguiente paso.
+## PSDATA = Este template viene con todo ya instalado hasta fontawesome, por lo general si llega a haber un error suele ser para instalar los proptypes, 
 
     $npm install prop-types
 
+## __Si quieres crear un proyecto desde ZERO puedes tomar a partir el siguiente paso.__
+---
+---
+---
 # Crear estructura del proyecto desde ZERO
 
 - __tests__
